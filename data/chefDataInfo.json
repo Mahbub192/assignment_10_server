@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "Chef John",
+    "experience": 10,
+    "recipes_count": 150,
+    "likes": 10000,
+    "picture": "https://i.ibb.co/LCmkhPJ/chef4.jpg",
+    "description": "Chef John is a British chef, restaurateur, and television personality. He rose to fame in the late 1990s with his television show The Naked Chef, which focused on simple and healthy cooking using fresh ingredients. Since then, Oliver has written numerous cookbooks, opened several restaurants, and hosted several television shows, including Jamie's Kitchen and Jamie's 30 Minute Meals. He is also an advocate for healthy eating and has worked to improve school meals and reduce childhood obesity. Oliver's approach to cooking is all about using fresh, seasonal ingredients and keeping things simple and approachable.",
+    "food_img": "https://media.cnn.com/api/v1/images/stellar/prod/170206165040-dubai-michelin-dining-boca.jpg?q=x_3,y_140,h_1516,w_2694,c_crop/h_720,w_1280/f_webp",
+    "food_name": "Seafood paella",
+    "recipes": [
+      {
+        "id": 10,
+        "recipe_name": "Beef Curry",
+        "recipe_img": "https://i.ibb.co/6RCjFbp/food1.jpg",
+        "ingredients": ["beef", "onion", "garlic", "ginger", "tomato"],
+        "cooking_method": ["1. Heat oil in a pot.", "2. Add onions, garlic, and ginger.", "3. Add beef and cook until brown.", "4. Add tomatoes and spices.", "5. Simmer until the beef is tender."],
+        "rating": 4.5,
+        "bangladeshi_food": true
+      },
+      {
+        "id": 11,
+        "recipe_name": "Chicken Biryani",
+        "recipe_img": "https://i.ibb.co/jvyzvxZ/food2.jpg",
+        "ingredients": ["chicken", "rice", "onion", "yogurt", "spices"],
+        "cooking_method": ["1. Marinate chicken in yogurt and spices.", "2. Cook rice separately.", "3. Fry onions until golden brown.", "4. Layer rice and chicken in a pot.", "5. Cover and cook on low heat until the chicken is cooked."],
+        "rating": 4.8,
+        "bangladeshi_food": true
+      },
+      {
+        "id": 12,
+        "recipe_name": "Fish Curry",
+        "recipe_img": "https://i.ibb.co/h8jDdmF/food3.jpg",
+        "ingredients": ["fish", "tomato", "onion", "garlic", "spices"],
+        "cooking_method": ["1. Heat oil in a pot.", "2. Fry onions and garlic.", "3. Add tomatoes and spices.", "4. Add fish and cook until tender.", "5. Serve hot with rice."],
+        "rating": 4.2,
+        "bangladeshi_food": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chef Sarah",
+    "experience": 8,
+    "recipes_count": 250,
+    "likes": 8000,
+    "picture": "https://i.ibb.co/5cYz88Y/chef3.jpg",
+    "description": "Chef Sarah is an American chef, restaurateur, and food activist. She is the founder of the renowned restaurant Chez Panisse in Berkeley, California, which focuses on using local, organic, and sustainable ingredients. Waters has been a pioneer of the farm-to-table movement and has worked to promote sustainable food practices throughout her career. She has also written several cookbooks, including The Art of Simple Food and The Art of Simple Food II. Waters' cooking philosophy emphasizes the importance of fresh, seasonal ingredients and the connection between food, culture, and community.",
+    "food_img": "https://media.cnn.com/api/v1/images/stellar/prod/170302150650-chicken-rice-singapore.jpg?q=x_2,y_99,h_1150,w_2043,c_crop/h_720,w_1280/f_webp",
+    "food_name": "Chicken rice",
+    "recipes": [
+      {
+        "id": 13,
+        "recipe_name": "Shrimp Curry",
+        "recipe_img": "https://i.ibb.co/d2Hm023/food4.jpg",
+        "ingredients": ["shrimp", "coconut milk", "tomato", "onion", "spices"],
+        "cooking_method": ["1. Heat oil in a pot.", "2. Fry onions and tomatoes.", "3. Add spices and coconut milk.", "4. Add shrimp and cook until pink.", "5. Serve hot with rice."],
+        "rating": 4.6,
+        "bangladeshi_food": true
+      },
+      {
+        "id": 14,
+        "recipe_name": "Vegetable Curry",
+        "recipe_img": "https://i.ibb.co/jTH6xsy/food5.jpg",
+        "ingredients": ["potato", "carrot", "cauliflower", "peas", "spices"],
+        "cooking_method": ["1. Heat oil in a pot.", "2. Fry onions and spices.", "3. Add vegetables and water.", "4. Simmer until vegetables are cooked.", "5. Serve hot with rice."],
+        "rating": 4.3,
+        "bangladeshi_food": true
+      },
+      {
+        "id": 15,
+        "recipe_name": "Chicken Korma",
+        "recipe_img": "https://i.ibb.co/XJptFhN/food6.jpg",
+        "ingredients": ["chicken", "yogurt", "cashews", "onion", "spices"],
+        "cooking_method": ["1. Marinate chicken in yogurt and spices.", "2. Fry onions and cashews.", "3. Add chicken and cook until tender.", "4. Serve hot with rice."],
+        "rating": 4.3,
+        "bangladeshi_food": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "John Doe",
+    "experience": 10,
+    "recipes_count": 500,
+    "likes": 10000,
+    "picture": "https://i.ibb.co/H2cDcMq/chef2.jpg",
+    "description": "John Doe is an Italian chef and restaurateur. He is the owner and head chef of Osteria Francescana in Modena, Italy, which has been named the best restaurant in the world several times. Bottura's approach to cooking is all about creativity, innovation, and pushing boundaries. He is known for his reinterpretation of traditional Italian dishes, such as his famous dish 'Oops! I Dropped the Lemon Tart'. Bottura is also a passionate advocate for reducing food waste and has launched several initiatives to address this issue.",
+    "food_img": "https://media.cnn.com/api/v1/images/stellar/prod/170920150817-chicken-parm.jpg?q=x_324,y_423,h_2354,w_4184,c_crop/h_720,w_1280/f_webp",
+    "food_name": "Chicken parm",
+    "recipes": [
+      {
+        "id": 16,
+        "recipe_name": "Bengali Fish Curry",
+        "recipe_img": "https://i.ibb.co/S6NLCdp/food8.jpg",
+        "ingredients": [
+          "1 lb. fish",
+          "1 onion, chopped",
+          "1 tomato, chopped",
+          "1 tsp. ginger paste",
+          "1 tsp. garlic paste",
+          "1 tsp. turmeric powder",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. red chili powder",
+          "Salt to taste",
+          "2 tbsp. oil",
+          "1 cup water"
+        ],
+        "cooking_method": ["1. Heat oil in a pan and fry the fish pieces until golden brown. Remove and keep aside.", "2. In the same pan, add chopped onions and fry until translucent.", "3. Add ginger and garlic paste and fry for a minute.", "4. Add chopped tomatoes and fry until soft.", "5. Add turmeric powder, cumin powder, coriander powder, red chili powder and salt. Fry for 2-3 minutes.", "6. Add water and bring to a boil.", "7. Add fried fish pieces and let it simmer for 5-7 minutes.", "8. Serve hot with steamed rice."],
+        "rating": 4.5,
+        "bangladeshi_food": true
+      },
+      {
+        "id": 17,
+        "recipe_name": "Chingri Macher Malaikari",
+        "recipe_img": "https://i.ibb.co/Kbw8dmx/food7.jpg",
+        "ingredients": [
+          "1 lb. shrimp",
+          "1 onion, chopped",
+          "1 tomato, chopped",
+          "1 tsp. ginger paste",
+          "1 tsp. garlic paste",
+          "1 tsp. turmeric powder",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. red chili powder",
+          "Salt to taste",
+          "1 cup coconut milk",
+          "2 tbsp. oil"
+        ],
+        "cooking_method": ["1. Heat oil in a pan and fry the shrimp until golden brown. Remove and keep aside.", "2. In the same pan, add chopped onions and fry until translucent.", "3. Add ginger and garlic paste and fry for a minute.", "4. Add chopped tomatoes and fry until soft.", "5. Add turmeric powder, cumin powder, coriander powder, red chili powder and salt. Fry for 2-3 minutes.", "6. Add coconut milk and bring to a boil.", "7. Add fried shrimp pieces and let it simmer for 5-7 minutes.", "8. Serve hot with steamed rice."],
+        "rating": 4.8,
+        "bangladeshi_food": true
+      },
+      {
+        "id": 18,
+        "recipe_name": "Shorshe Ilish",
+        "recipe_img": "https://i.ibb.co/JqyCtxN/food9.jpg",
+        "ingredients": [
+          "1 lb. hilsa fish",
+          "1 onion, chopped",
+          "1 tomato, chopped",
+          "1 tsp. mustard paste",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "Salt to taste",
+          "2 tbsp. mustard oil",
+          "1 cup water"
+        ],
+        "cooking_method": ["1. Heat mustard oil in a pan and fry the fish pieces until golden brown. Remove and keep aside.", "2. In the same pan, add chopped onions and fry until translucent."],
+        "rating": 4.8,
+        "bangladeshi_food": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Tariq Rahman",
+    "experience": 10,
+    "recipes_count": 300,
+    "likes": 2000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQym0KsatmtFSnJ4PhH6OxKrZ8dUSIzUDfdX1qaO0ESkQbVNPrM4gTE-XsrD-sK0BA6Q8s&usqp=CAU",
+    "description": "Tariq Rahman is an American chef and founder of Milk Bar, a bakery and dessert chain with locations across the United States. Tosi is known for her playful and innovative approach to baking, which often involves unexpected ingredients and flavor combinations. She has written several cookbooks, including Milk Bar Life and All About Cake. Tosi's desserts are a fusion of childhood nostalgia and modern culinary techniques, and she has been recognized with numerous awards for her innovative baking.",
+    "food_img": "https://media.cnn.com/api/v1/images/stellar/prod/170203151539-fajitas.jpg?q=h_619,w_1024,x_0,y_31,c_crop/h_619,w_1100,c_lpad,b_rgb:061015/h_720,w_1280/f_webp",
+    "food_name": "Fajitas",
+    "recipes": [
+      {
+        "id": 19,
+        "recipe_name": "Beef Bhuna",
+        "recipe_img": "https://i.ibb.co/JqyCtxN/food9.jpg",
+        "ingredients": ["Beef", "Onion", "Tomato", "Garlic", "Ginger"],
+        "cooking_method": ["1. Heat the oil in a pan and fry the onion until golden brown.", "2. Add garlic, ginger and tomato and fry until the oil separates.", "3. Add beef and fry for 10-15 minutes until the meat is tender.", "4. Serve hot with rice or bread."],
+        "rating": 4.5,
+        "bangladeshi_food": true
+      },
+      {
+        "id": 20,
+        "recipe_name": "Chingri Malai Curry",
+        "recipe_img": "https://i.ibb.co/NS1WJyB/food10.jpg",
+        "ingredients": ["Prawns", "Coconut Milk", "Onion", "Garlic", "Ginger"],
+        "cooking_method": ["1. Heat the oil in a pan and fry the onion until golden brown.", " 2. Add garlic, ginger and prawns and fry for 5-7 minutes.", "3. Add coconut milk and simmer for 10-15 minutes until the sauce thickens.", "4. Serve hot with rice."],
+        "rating": 4.2,
+        "bangladeshi_food": true
+      },
+      {
+        "id": 21,
+        "recipe_name": "Kachchi Biriyani",
+        "recipe_img": "https://i.ibb.co/VpD8x2t/food11.jpg",
+        "ingredients": ["Mutton", "Basmati Rice", "Onion", "Garlic", "Ginger"],
+        "cooking_method": ["1. Marinate the mutton with yogurt and spices for 2-3 hours.", "2. Fry the onion until golden brown.", "3. Layer the marinated mutton and rice in a pot.", "4. Cook on low heat for 1-2 hours until the meat and rice are tender.", "5. Serve hot with raita."],
+        "rating": 4.8,
+        "bangladeshi_food": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sadia Ali",
+    "experience": 550,
+    "recipes_count": 4,
+    "likes": 1500,
+    "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+    "description": "Sadia Ali is an Israeli-British chef, restaurateur, and food writer. He is the owner of several restaurants in London and has written several bestselling cookbooks, including Plenty and Jerusalem. Ottolenghi's cooking philosophy is all about bold flavors, vibrant colors, and using fresh, seasonal ingredients. He is known for his innovative use of vegetables and his fusion of Middle Eastern and Mediterranean flavors. Ottolenghi's recipes are often complex and multi-layered, but he emphasizes the importance of simplicity and accessibility in his approach to cooking.",
+    "food_img": "https://media.cnn.com/api/v1/images/stellar/prod/130114133424-boy-eating-hamburger-fast-food.jpg?q=x_2,y_376,h_973,w_1730,c_crop/h_720,w_1280/f_webp",
+    "food_name": "Hamburger",
+    "recipes": [
+      {
+        "id": 22,
+        "recipe_name": "Shorshe Ilish",
+        "recipe_img": "https://i.ibb.co/JqyCtxN/food9.jpg",
+        "ingredients": ["Hilsa Fish", "Mustard", "Onion", "Garlic", "Ginger"],
+        "cooking_method": ["1. Make a paste of mustard, onion, garlic and ginger.", "2. Fry the fish until golden brown. ","3. Add the mustard paste and cook for 5-7 minutes.", "4. Serve hot with rice."],
+        "rating": 4.6,
+        "bangladeshi_food": true
+      },
+      {
+        "id": 23,
+        "recipe_name": "Shrimp Curry",
+        "recipe_img": "https://i.ibb.co/d2Hm023/food4.jpg",
+        "ingredients": [
+          "shrimp",
+          "coconut milk",
+          "onion",
+          "garlic",
+          "ginger",
+          "cumin",
+          "coriander",
+          "turmeric",
+          "chili powder"
+        ],
+        "cooking_method": ["1. Heat oil in a large pot over medium-high heat. Add onion and cook until softened. Add garlic and ginger and cook for 1 minute.", "2. Add shrimp and cook until pink. Add coconut milk, cumin, coriander, turmeric, and chili powder. Stir to combine.", "3. Cover and cook for 10-15 minutes, until the shrimp is cooked through and the sauce has thickened.", "4. Serve hot with rice or naan."],
+        "rating": 4,
+        "bangladeshi_food": true
+      },
+      {
+        "id": 24,
+        "recipe_name": "Kachchi Biriyani",
+        "recipe_img": "https://i.ibb.co/VpD8x2t/food11.jpg",
+        "ingredients": ["Mutton", "Basmati Rice", "Onion", "Garlic", "Ginger"],
+        "cooking_method": ["1. Marinate the mutton with yogurt and spices for 2-3 hours.", "2. Fry the onion until golden brown.", "3. Layer the marinated mutton and rice in a pot.", "4. Cook on low heat for 1-2 hours until the meat and rice are tender.", "5. Serve hot with raita."],
+        "rating": 4.8,
+        "bangladeshi_food": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Maria Rodriguez",
+    "experience": 10,
+    "recipes_count": 850,
+    "likes": 1000,
+    "picture": "https://i.ibb.co/vC9NDD6/chef6.jpg",
+    "description": "Maria Rodriguez was an American chef, author, and television personality. She is best known for introducing French cuisine to the American public through her cookbook Mastering the Art of French Cooking and her television show The French Chef. Child was known for her approachable style and infectious enthusiasm.",
+    "food_img": "https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg.webp",
+    "food_name": "Panta Ilish",
+    "recipes": [
+      {
+        "id": 25,
+        "recipe_name": "Bengali Chicken Curry",
+        "recipe_img": "https://i.ibb.co/2PFm1mq/food12.jpg",
+        "ingredients": [
+          "chicken",
+          "onion",
+          "garlic",
+          "ginger",
+          "tomatoes",
+          "cumin",
+          "coriander",
+          "turmeric",
+          "chili powder",
+          "garam masala"
+        ],
+        "cooking_method": ["1. Heat oil in a large pot over medium-high heat. Add onion and cook until softened. Add garlic and ginger and cook for 1 minute." ,"2. Add chicken and cook until browned on all sides. Add tomatoes, cumin, coriander, turmeric, chili powder, and garam masala. Stir to combine.", "3. Cover and cook for 30-40 minutes, stirring occasionally, until the chicken is cooked through and the sauce has thickened."," 4. Serve hot with rice or naan."],
+        "rating": 4.5,
+        "bangladeshi_food": true
+      },
+      {
+        "id": 26,
+        "recipe_name": "Shrimp Curry",
+        "recipe_img": "https://i.ibb.co/d2Hm023/food4.jpg",
+        "ingredients": [
+          "shrimp",
+          "coconut milk",
+          "onion",
+          "garlic",
+          "ginger",
+          "cumin",
+          "coriander",
+          "turmeric",
+          "chili powder"
+        ],
+        "cooking_method": ["1. Heat oil in a large pot over medium-high heat. Add onion and cook until softened. Add garlic and ginger and cook for 1 minute.", "2. Add shrimp and cook until pink. Add coconut milk, cumin, coriander, turmeric, and chili powder. Stir to combine.", "3. Cover and cook for 10-15 minutes, until the shrimp is cooked through and the sauce has thickened.", "4. Serve hot with rice or naan."],
+        "rating": 4,
+        "bangladeshi_food": true
+      },
+      {
+        "id": 27,
+        "recipe_name": "Vegetable Biryani",
+        "recipe_img": "https://i.ibb.co/xg2852W/food13.jpg",
+        "ingredients": [
+          "basmati rice",
+          "carrots",
+          "peas",
+          "potatoes",
+          "onion",
+          "garlic",
+          "ginger",
+          "cumin",
+          "coriander",
+          "turmeric",
+          "chili powder",
+          "garam masala"
+        ],
+        "cooking_method": ["1. Rinse rice and soak in cold water for 30 minutes. Drain.", "2. Heat oil in a large pot over medium-high heat. Add onion and cook until softened. Add garlic and ginger and cook for 1 minute.", "3. Add carrots and potatoes and cook for 5 minutes. Add peas and cook for 1 minute.", "4. Add rice, cumin, coriander, turmeric, chili powder, garam masala, and enough water to cover the rice by about 1 inch. Bring to a boil.", "5. Reduce heat to low, cover, and cook for 20-25 minutes, until the rice is tender and the liquid has been absorbed.", "6. Serve hot."],
+        "rating": 4.8,
+        "bangladeshi_food": true
+      }
+    ]
+  }
+]
